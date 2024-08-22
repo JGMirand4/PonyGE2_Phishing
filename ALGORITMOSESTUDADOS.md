@@ -1,4 +1,4 @@
-
+https://theses.liacs.nl/pdf/2019-2020-LouYitan.pdf
 Vamos abordar os algoritmos Structured Grammatical Evolution (SGE), Grammar-based Genetic Programming (GS), e Context-Free Grammar Genetic Programming (CFG-GP) de uma maneira bem detalhada, para que você possa entender claramente cada um deles, mesmo que esteja começando agora.
 
 ### 1. **Structured Grammatical Evolution (SGE)**
