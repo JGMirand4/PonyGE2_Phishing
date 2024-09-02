@@ -1,7 +1,3 @@
-Aqui está o README atualizado para o SGE (Structured Grammatical Evolution) no seu repositório GitHub:
-
----
-
 # **SGE (Structured Grammatical Evolution)**
 
 Este diretório contém uma implementação do **SGE (Structured Grammatical Evolution)**, uma variação do Grammatical Evolution (GE) que organiza os genótipos em subgenótipos, onde cada não-terminal possui seu próprio conjunto de genes. Esta abordagem busca melhorar a eficiência do processo de busca evolutiva ao estruturar o genótipo de maneira mais explícita.
@@ -55,7 +51,3 @@ SGE/
 - **Operadores Genéticos**: As funções de seleção, cruzamento e mutação podem ser ajustadas para melhor se adequar ao seu problema.
 
 Se precisar de mais informações ou orientações, sinta-se à vontade para consultar a documentação ou entrar em contato.
-
----
-
-Esse README fornece uma visão geral detalhada do que o SGE faz, como ele está estruturado, e como executar o algoritmo no seu ambiente.
